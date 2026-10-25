@@ -66,3 +66,4 @@ sudo ufw status | python3 auditor.py --policy policy.yaml
 
 - [e.g. add tests with sample ufw output]
 - [e.g. run in a GitHub Actions workflow against a test VM]
+
